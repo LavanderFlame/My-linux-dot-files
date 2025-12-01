@@ -3,6 +3,7 @@ My linux dot files for myself or anyone who wants to use it
 
 # How to install:
 1. Git clone this repository
-2. Download the following: waybar, waypaper, hyprland, kitty, rofi, swaync, and pywal/pywal16colors
+2. Download the following: waybar, waypaper, hyprland, kitty, rofi, swaync, grim, slurp, swappy, and pywal/pywal16colors
 3. Drop all the folders in the git clone folder into your .configs
-4. Enjoy
+4. Tweak the settings to your liking and make sure all the folders are correctly mentioned in the configs. 
+5. Enjoy
